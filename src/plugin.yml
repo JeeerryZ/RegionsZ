@@ -1,0 +1,12 @@
+name: Core2
+load: STARTUP
+description: Plugin mestre para servidor
+softdepend: [HologramAPI]
+load: POSTWORLD
+author: JerryZ
+version: 2
+main: me.jerryz.coreplugin.Core
+commands:
+    region:
+        description: Digite /region help para mais informações
+    
